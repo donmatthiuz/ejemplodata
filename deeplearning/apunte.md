@@ -45,3 +45,22 @@ Durante el proceso de entrenamiento, se utiliza un batch de observaciones que se
 La tarea asignada para la próxima clase consiste en crear una red neuronal y experimentar con diferentes hiperparámetros. El objetivo es comprender cómo cada hiperparámetro afecta el rendimiento y la capacidad de aprendizaje de la red.
 
 Recuerden que el correcto ajuste de los hiperparámetros es esencial para obtener buenos resultados en el entrenamiento de redes neuronales. ¡A practicar!
+# 2025-09-06
+
+## Descripción
+Este archivo README contiene notas de clase sobre los hiperparámetros en redes neuronales.
+
+## Contenido
+
+### Hiperparámetros en redes neuronales
+Para Metro es lo que no podemos modificar, se guarda en el aprendizaje, el seco de cuenta mientras se prenda y perparámetro les ve que lo podemos modificar. Es una variable que puede tomar por sentado una parte del entrenamiento y la usa para entrenar. Los hiperparámetros de nuestra red pueden ser la cantidad de capas, el learning de la función de activación, el batch size y las épocas. Los otros lo que queremos hacer es tener un objetivo, es hacer que la red aprende y que cuenta el proceso de nuestra data. El problema es solo recursos, entonces tenemos un batch que tiene un conjunto de setorginas y cada vez que te pase en observaciones actualizará los datos correspondientes a los pesos. Sabiendo esto, la tarea de día de mañana será crear una red neuronal y en base a eso ir probando cada uno de los hiperparámetros.
+
+## Estructura
+El contenido del archivo está organizado de la siguiente manera:
+- Descripción general sobre hiperparámetros en redes neuronales.
+- Detalle sobre la importancia de ajustar los hiperparámetros para el entrenamiento de redes neuronales.
+- Ejemplos de hiperparámetros comunes en redes neuronales y su impacto en el proceso de aprendizaje.
+
+## Notas adicionales
+- Es importante entender la influencia de los hiperparámetros en el rendimiento y la eficacia de una red neuronal.
+- La experimentación con diferentes valores de hiperparámetros es fundamental para optimizar el proceso de entrenamiento y mejorar los resultados obtenidos.
